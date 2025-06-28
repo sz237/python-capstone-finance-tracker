@@ -11,6 +11,7 @@ This is a simple command-line Python project that helps users track their person
 
 ```bash
 python final.py
+```
 
 This project demonstrates several core Python concepts:
 
